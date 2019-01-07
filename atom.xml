@@ -3,11 +3,11 @@
   <title>Blog</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://daizhili.github.io/"/>
   <updated>2019-01-07T08:51:04.481Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://daizhili.github.io/</id>
   
   <author>
     <name>Dai Zhi Li</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>project blog</title>
-    <link href="http://yoursite.com/2019/01/07/proBlog/"/>
-    <id>http://yoursite.com/2019/01/07/proBlog/</id>
+    <link href="https://daizhili.github.io/2019/01/07/proBlog/"/>
+    <id>https://daizhili.github.io/2019/01/07/proBlog/</id>
     <published>2019-01-07T08:18:30.000Z</published>
     <updated>2019-01-07T08:51:04.481Z</updated>
     
@@ -35,14 +35,14 @@
     </summary>
     
     
-      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+      <category term="blog" scheme="https://daizhili.github.io/tags/blog/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/01/07/hello-world/"/>
-    <id>http://yoursite.com/2019/01/07/hello-world/</id>
+    <link href="https://daizhili.github.io/2019/01/07/hello-world/"/>
+    <id>https://daizhili.github.io/2019/01/07/hello-world/</id>
     <published>2019-01-07T08:16:40.399Z</published>
     <updated>2019-01-07T08:16:40.399Z</updated>
     
@@ -62,8 +62,8 @@
   
   <entry>
     <title>note</title>
-    <link href="http://yoursite.com/2019/01/07/note/"/>
-    <id>http://yoursite.com/2019/01/07/note/</id>
+    <link href="https://daizhili.github.io/2019/01/07/note/"/>
+    <id>https://daizhili.github.io/2019/01/07/note/</id>
     <published>2019-01-07T01:03:30.000Z</published>
     <updated>2019-01-07T08:16:40.400Z</updated>
     
@@ -79,14 +79,14 @@
     </summary>
     
     
-      <category term="note" scheme="http://yoursite.com/tags/note/"/>
+      <category term="note" scheme="https://daizhili.github.io/tags/note/"/>
     
   </entry>
   
   <entry>
     <title>markdown</title>
-    <link href="http://yoursite.com/2018/10/29/markdown/"/>
-    <id>http://yoursite.com/2018/10/29/markdown/</id>
+    <link href="https://daizhili.github.io/2018/10/29/markdown/"/>
+    <id>https://daizhili.github.io/2018/10/29/markdown/</id>
     <published>2018-10-29T01:03:30.000Z</published>
     <updated>2019-01-07T08:16:40.400Z</updated>
     
@@ -102,7 +102,7 @@
     </summary>
     
     
-      <category term="markdown" scheme="http://yoursite.com/tags/markdown/"/>
+      <category term="markdown" scheme="https://daizhili.github.io/tags/markdown/"/>
     
   </entry>
   
